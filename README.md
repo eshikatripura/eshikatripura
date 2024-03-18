@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eshikatripura
-- 👀 I’m interested in quantum computing, bug bounty & cyber security
-- 🌱 I’m currently learning mathematics & physics
-- 📫 How to reach me thirtyep@gmail.com
+- 👀 Interested in quantum computing, bug bounty & cyber security
+- 🌱 currently learning mathematics & physics
+- 📫 Reach me thirtyep@gmail.com
 
 
 <!---
